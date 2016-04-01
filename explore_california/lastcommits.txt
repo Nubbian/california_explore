@@ -1,0 +1,28 @@
+
+c:\Dev\git>git log
+commit 19475e22a26a29cf0e5fea0d35babf869f6bd726
+Author: Brian Kanduli <briankanduli@gmail.com>
+Date:   Fri Apr 1 09:59:15 2016 +0200
+
+    SHA1 checksums for last commits
+
+commit b3de7b43de5ea285ac1ca1b22adc3933ea53bf83
+Author: Brian Kanduli <briankanduli@gmail.com>
+Date:   Thu Mar 31 23:42:12 2016 +0200
+
+    Added Telegram messaging app JSON api
+
+commit 4e9e75070e87b24003bf848d41abe9e2ae0d2d5f
+Author: Brian Kanduli <briankanduli@gmail.com>
+Date:   Thu Mar 31 22:52:47 2016 +0200
+
+    VS Code setting can wrap at 100 words and font is 18
+
+commit ef99faf968930330c9696e98a848fe88ee45acd9
+Author: Brian Kanduli <briankanduli@gmail.com>
+Date:   Thu Mar 31 22:39:46 2016 +0200
+
+    Removal of colloquial english
+
+commit 74c0b92e3096fe560d30012c49ac454b7829cf0f
+Author: Brian Kanduli <briankanduli@gmail.com>
